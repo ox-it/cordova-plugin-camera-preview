@@ -47,7 +47,7 @@
       </feature>
     </config-file>
     <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-      <string>Used to show sextant background</string>
+      <string>Used to simulate looking through the sextant's scope.</string>
     </config-file>
 
     <header-file src="src/ios/CameraPreview.h" />
